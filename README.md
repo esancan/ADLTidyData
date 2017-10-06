@@ -8,6 +8,8 @@ If you think this repo looks like this one: https://github.com/AllanHasegawa/ds_
 
 Then, don't worry. I'm just redoing this course :) The code is almost the same, but I improved it a bit.
 
+See this commit owner :)
+
 ## Running the script
 
  * Clone this repo
